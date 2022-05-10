@@ -18,3 +18,12 @@ Website to play games such as:
 ## How to start ?
 
 Using npm start
+
+## Screenshots
+
+Memory Game:
+
+Dice Roller:
+
+RPG:
+
