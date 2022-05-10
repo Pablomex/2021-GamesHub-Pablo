@@ -4,7 +4,7 @@ Several games using JS
 
 ## Technical stack
 
-Use of: HTML, CSS, Node.js, Express.js.
+HTML, CSS, Node.js, Express.js.
 
 ## Description
 
