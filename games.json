@@ -1,0 +1,27 @@
+[
+  {
+    "name": "memory",
+    "title": "Memory",
+    "cssFile": "memory.css",
+    "jsFile": "memory.js"
+  },
+  {
+    "name": "fourchette",
+    "title": "Jeu de la fourchette",
+    "cssFile": null,
+    "jsFile": "fourchette.js"
+  },
+  {
+    "name": "diceRoller",
+    "title": "Dice Roller",
+    "cssFile": "diceRoller.css",
+    "jsFile": "diceRoller.js"
+  },
+  {
+    "name": "rpg",
+    "title": "Jeu Grunt",
+    "cssFile": "rpg.css",
+    "jsFile": "rpg.js"
+  }
+]
+  

@@ -1,0 +1,28 @@
+{
+  "name": "2021-GamesHub-Pablo",
+  "version": "1.0.0",
+  "description": "Bon, on a quelques jeux qui traînent, c'est cool ! Mais c'est le bazar !",
+  "main": "index.js",
+  "scripts": {
+    "start": "node-dev index.js --no-notify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/O-clock-Zagreus/S03E06-GameHub-ElodieFaivre.git"
+  },
+  "author": "elodie et paul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/O-clock-Zagreus/S03E06-GameHub-ElodieFaivre/issues"
+  },
+  "homepage": "https://github.com/O-clock-Zagreus/S03E06-GameHub-ElodieFaivre#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  },
+  "htmlhint.options": {
+    "spec-char-escape": false,
+    "doctype-first": false
+}
+}
