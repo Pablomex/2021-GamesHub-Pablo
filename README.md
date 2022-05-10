@@ -21,11 +21,14 @@ Using npm start
 
 ## Screenshots
 
-Memory Game:
+Memory Game: <br>
+
 ![GIF Memory Game](https://github.com/Pablomex/2021-GamesHub-Pablo/blob/main/2021-GamesHub-ScreenShots/MemoryGame.gif)
 
-Dice Roller:
+Dice Roller: <br>
+
 ![GIF Dice Roller](https://github.com/Pablomex/2021-GamesHub-Pablo/blob/main/2021-GamesHub-ScreenShots/DiceRoller.gif)
 
-RPG:
+RPG: <br>
+
 ![GIF RPG Game](https://github.com/Pablomex/2021-GamesHub-Pablo/blob/main/2021-GamesHub-ScreenShots/RPGGame.gif)
